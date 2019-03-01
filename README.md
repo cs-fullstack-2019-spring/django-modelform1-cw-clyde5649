@@ -1,3 +1,6 @@
+## POINTS: 0
+## KEY: Great start. you even got the 'published_date' field in there which most people missed. Unfortunately, code does not add any records
+
 # Django Model Forms 1 CW
 
 ### Exercise 1: Create a basic blog entry page
